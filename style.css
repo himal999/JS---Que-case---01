@@ -1,5 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
 div{
-    background-color: aqua;
+   
     position: relative;
     height: 30px;
     width: 30px;
@@ -48,4 +55,11 @@ width: 220px;
 height: auto;
 position: relative;
 top: 300px;
+}
+
+#park{
+    position: absolute;
+    width: 20rem;
+    top: 350px;
+    right: 150px;
 }
