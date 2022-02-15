@@ -13,6 +13,7 @@ div{
     align-items: center;
     justify-content: center;
     display: flex;
+    font-size: 2em;
 
 }
 
@@ -63,3 +64,5 @@ top: 300px;
     top: 350px;
     right: 150px;
 }
+
+
